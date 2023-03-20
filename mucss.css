@@ -1,0 +1,18 @@
+.header{
+    background-color: rgb(137, 145, 255);
+    color: white;
+    border: 1px solid black;
+    height:  100px;
+}
+.main{
+    background-color: rgb(137, 145, 255);
+    color: white;
+    border: 1px solid black;
+    height:auto 
+}
+.header2{
+    background-color: rgb(197, 220, 255);
+    color: white;
+    border: 1px solid black;
+    height:  250px;
+}
